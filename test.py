@@ -1,1 +1,1 @@
-print("đfdfd")
+print("đfd")
